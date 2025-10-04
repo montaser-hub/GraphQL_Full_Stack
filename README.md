@@ -1,6 +1,4 @@
-Absolutely! I can update your README to reflect both your **frontend React app** and **backend GraphQL server** setup, including CRUD operations for Users and Companies, proper instructions for running both servers, and any GraphQL notes. Here’s a polished version:
 
----
 
 # React + GraphQL CRUD App
 
