@@ -1,3 +1,4 @@
+<img width="563" height="691" alt="image" src="https://github.com/user-attachments/assets/32a64591-e06b-47c3-b161-1309df557b81" />
 
 
 # React + GraphQL CRUD App
