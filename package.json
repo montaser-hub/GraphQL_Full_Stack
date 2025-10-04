@@ -1,0 +1,12 @@
+{
+  "name": "graphql-fullstack",
+  "private": true,
+  "scripts": {
+  "dev": "concurrently -k -n BACKEND,FRONTEND -c red,blue \"cd \\\"server\\\" && npm run dev\" \"cd \\\"client\\\" && npm start\"",
+  "server": "cd backend && npm run dev",
+  "client": "cd client && npm start"
+},
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
